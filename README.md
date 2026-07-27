@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: <https://github.com/jorlabor/social-links-profile>
 - Live Site URL: [social-links-profile-labor.netlify.app](https://social-links-profile-labor.netlify.app)
 
 ## My process
